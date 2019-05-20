@@ -1,24 +1,24 @@
-#Task Submission
-
+<h2>Task Submission</h2>
+<br /><br />
 This is a React project which is based on a boiler plate which is freely available on the github for the further use. This is the great template to start with, though the project scale is small, however, it has also been taken into consideration that the project can extend in future.
-
+<br /><br />
 Few things I have added to this template (i.e LESS module through the Webpack).
-
+<br /><br />
 Following is the list of the containers and components which I have added further.
-
-<strong>Container:</strong>
-Articles
-<strong>Components:</strong>
-List
-ListItem
-ClickableArrow
-Thumbnail
-DateWithIcon
-
+<br /><br />
+<strong>Container:</strong><br />
+Articles<br />
+<strong>Components:</strong><br />
+List<br />
+ListItem<br />
+ClickableArrow<br />
+Thumbnail<br />
+DateWithIcon<br />
+<br />
 I have also taken advantage of using redux saga and react memo besides redux and routes.
-
-
-#Boiler plate info
+<br />
+<br />
+<h2>Boiler plate info</h2>
 
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
 
