@@ -18,6 +18,13 @@ DateWithIcon<br />
 I have also taken advantage of using redux saga and react memo besides redux and routes.
 <br />
 <br />
+<strong>Installation info</strong><br />
+For installing the app to you machice, you just simply need to clone this repository and run command (npm run install) and this will add the node_modules to the project.
+<br /><br />
+I have followd the TDD approcah for the unit test and the code is covered with respect to functions, branches etc. If you need to check the test coverage you can simply run (npm run test) and this will run through the test and genreate the report.
+<br /><br />
+Report folder will appear of the root with the name 'coverage', and this 'coverage/lcov-report/index.html' will show you the nice HTML table with all the files and their related test covergage percentage.
+<br /><br /><br /><br />
 <h2>Boiler plate info</h2>
 
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
