@@ -1,0 +1,1194 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<List /> Should render and match the snapshot 1`] = `
+<div
+  class="npApp_list"
+>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          Gen X Is a Mess
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          The great generation that barely was.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-14
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          Grumpy Cat, Internet Celebrity With a Piercing Look of Contempt, Is Dead at 7
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          The frowning feline whose permanent scowl spoke for all of us in our darkest moments died in the arms of her “mommy” on Tuesday, her family said.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-17
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          James Charles, From ‘CoverBoy’ to Canceled
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          The 19-year-old internet personality and makeup artist has provoked the ire of beauty YouTube.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-14
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          ‘Game of Thrones’ Season 8, Episode 5 Recap: The Bells Toll for Daenerys
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          In Sunday’s thrilling, horrifying, frustrating episode, the Last War engulfed King’s Landing, and this season’s death toll shot up significantly.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-13
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          Lawmakers Vote to Effectively Ban Abortion in Alabama
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          Supporters of the measure hope it will lead the Supreme Court to reconsider Roe v. Wade, which recognized a constitutional right to end a pregnancy.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-14
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          They Were Promised Coding Jobs in Appalachia. Now They Say It Was a Fraud.
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          Mined Minds came into West Virginia espousing a certain dogma, fostered in the world of start-ups and TED Talks. Students found an erratic operation.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-12
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          Venezuela’s Collapse Is the Worst Outside of War in Decades, Economists Say
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          Butchers have stopped selling meat cuts in favor of offal, fat shavings and cow hooves, the only animal protein many of their customers can afford.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-17
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          Can CBD Really Do All That?
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          How one molecule from the cannabis plant came to be seen as a therapeutic cure-all.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-14
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          I Ignored ‘Game of Thrones’ for 8 Years. Then Inhaled It in 5 Weeks.
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          For more than 70 hours, Wesley Morris caught up with the dragons, beheadings and brinkmanship before the series finale. Here’s what he learned.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-16
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          Nike Told Me to Dream Crazy, Until I Wanted a Baby
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          Being a mother and a champion was a crazy dream. It didn’t have to be.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-12
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          White House Reviews Military Plans Against Iran, in Echoes of Iraq War
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          The plans call for up to 120,000 American troops but not a land invasion of Iran. They were updated at the request of John R. Bolton, the national security adviser.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-13
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          UEFA Investigators Set to Seek Manchester City’s Ban From Champions League
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          Manchester City, eager to add a Champions League trophy, could face a ban of at least a year from the competition for lying about violations of UEFA’s financial reporting rules.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-13
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          San Francisco Bans Facial Recognition Technology
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          It is the first ban by a major city on the use of facial recognition technology by the police and all other municipal agencies.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-14
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          With Higher Tariffs, China Retaliates Against the U.S.
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          Beijing’s matched the Trump administration’s de facto delay in collecting the new tariffs, giving both sides breathing room to reach a deal.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-13
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          It’s Time to Break Up Facebook
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          Mark Zuckerberg is a good guy. But the company I helped him build is a threat to our economy and democracy.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-09
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          Are You Secretly a Millennial?
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          Xennials live in the cusp between Gen X and millennial. We can sort you with this quiz.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-14
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          I.M. Pei, Master Architect Whose Buildings Dazzled the World, Dies at 102
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          Mr. Pei, a committed modernist, was one of the few architects equally attractive to real estate developers, corporate chieftains and art museum boards.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-16
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          Abortion Bans: 8 States Have Passed Bills to Limit the Procedure This Year
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          Legislators in Alabama and Missouri both voted this week to implement new restrictions on when abortions are allowed.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-15
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          Your 5G Phone Won’t Hurt You. But Russia Wants You to Think Otherwise.
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          RT America, a network known for sowing disinformation, has a new alarm: the coming ‘5G Apocalypse.’
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-05-12
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+  <div
+    class="npApp_list-item"
+  >
+    <div
+      class="list-item-thumbnail"
+    >
+      <div
+        class="npApp_thumbnail"
+      />
+    </div>
+    <div
+      class="list-item-details"
+    >
+      <div
+        class="clamp-lines title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-title"
+        >
+          The 50 Best Movies on Netflix Right Now
+        </span>
+      </div>
+      <div
+        class="clamp-lines sub-title"
+      >
+        <span
+          aria-hidden="true"
+          id="clamped-content-sub-title"
+        >
+          We’ve plucked out the 50 best films currently streaming on Netflix in the United States. Take a look.
+        </span>
+      </div>
+      <div
+        class="info"
+      >
+        <div
+          class="author"
+        >
+          The New York Times
+        </div>
+        <div
+          class="npApp_date-with-icon"
+        >
+          <span />
+          2019-03-06
+        </div>
+      </div>
+    </div>
+    <div
+      class="npApp_clickable-arrow list-item-arrow"
+    >
+      <span
+        data-testid="list-item-arrow"
+        role="button"
+        tabindex="0"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<List /> Should render and match the snapshot if articles.results length is less than zero 1`] = `
+<div
+  class="npApp_list"
+/>
+`;

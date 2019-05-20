@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ClickableArrow /> Should render and match the snapshot 1`] = `
+<div
+  class="npApp_clickable-arrow "
+>
+  <span
+    data-testid="list-item-arrow"
+    role="button"
+    tabindex="0"
+  />
+</div>
+`;

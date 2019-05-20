@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListItem /> <ListItem /> Should render and match the snapshot 1`] = `
+<div
+  class="npApp_list-item"
+>
+  <div
+    class="list-item-thumbnail"
+  >
+    <div
+      class="npApp_thumbnail"
+    >
+      fake-image-source
+    </div>
+  </div>
+  <div
+    class="list-item-details"
+  >
+    <div
+      class="clamp-lines title"
+    >
+      <span
+        aria-hidden="true"
+        id="clamped-content-title"
+      >
+        fake-title
+      </span>
+    </div>
+    <div
+      class="clamp-lines sub-title"
+    >
+      <span
+        aria-hidden="true"
+        id="clamped-content-sub-title"
+      >
+        fake-sub-title
+      </span>
+    </div>
+    <div
+      class="info"
+    >
+      <div
+        class="author"
+      >
+        fake-author-name
+      </div>
+      <div
+        class="npApp_date-with-icon"
+      >
+        <span />
+        2019-01-01
+      </div>
+    </div>
+  </div>
+  <div
+    class="npApp_clickable-arrow list-item-arrow"
+  >
+    <span
+      data-testid="list-item-arrow"
+      role="button"
+      tabindex="0"
+    />
+  </div>
+</div>
+`;
